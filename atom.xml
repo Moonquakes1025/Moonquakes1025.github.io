@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2022-05-27T07:10:54.253Z</updated>
+  <updated>2022-05-28T01:48:49.551Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="/2022/05/28/%E7%AC%AC%E5%9B%9B%E5%A4%A9/"/>
+    <id>/2022/05/28/第四天/</id>
+    <published>2022-05-28T01:48:49.551Z</published>
+    <updated>2022-05-28T01:48:49.551Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>第三天</title>
@@ -273,6 +287,32 @@
   </entry>
   
   <entry>
+    <title>置顶文章(必看！)</title>
+    <link href="/2022/05/04/%E7%BD%AE%E9%A1%B6/"/>
+    <id>/2022/05/04/置顶/</id>
+    <published>2022-05-04T04:00:00.000Z</published>
+    <updated>2022-05-28T02:22:57.447Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;有时候图片加载不出来是因为 图床服务器炸了&lt;/p&gt;
+&lt;p&gt;最好用电脑看  手机有时候看不了而且很卡&lt;/p&gt;
+&lt;p&gt;密码呃   如果能进到这个页面的人应该都有密码了
+        
+      
+    
+    </summary>
+    
+      <category term="记录" scheme="/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>5月4日小日记</title>
     <link href="/2022/05/04/20220504/"/>
     <id>/2022/05/04/20220504/</id>
@@ -394,50 +434,6 @@
     </summary>
     
       <category term="游戏" scheme="/categories/%E6%B8%B8%E6%88%8F/"/>
-    
-    
-      <category term="dairy" scheme="/tags/dairy/"/>
-    
-      <category term="生活" scheme="/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2月了解</title>
-    <link href="/2022/02/28/2%E6%9C%88%E4%BA%86%E8%A7%A3/"/>
-    <id>/2022/02/28/2月了解/</id>
-    <published>2022-02-28T14:00:00.000Z</published>
-    <updated>2022-05-24T08:54:53.262Z</updated>
-    
-    <summary type="html">
-    
-      日常
-    
-    </summary>
-    
-      <category term="思考" scheme="/categories/%E6%80%9D%E8%80%83/"/>
-    
-    
-      <category term="dairy" scheme="/tags/dairy/"/>
-    
-      <category term="生活" scheme="/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2月26日小日记</title>
-    <link href="/2022/02/26/20220226/"/>
-    <id>/2022/02/26/20220226/</id>
-    <published>2022-02-26T14:00:00.000Z</published>
-    <updated>2022-05-24T08:48:46.627Z</updated>
-    
-    <summary type="html">
-    
-      日常
-    
-    </summary>
-    
-      <category term="思考" scheme="/categories/%E6%80%9D%E8%80%83/"/>
     
     
       <category term="dairy" scheme="/tags/dairy/"/>
