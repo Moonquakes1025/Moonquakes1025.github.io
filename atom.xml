@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2022-05-30T04:59:59.300Z</updated>
+  <updated>2022-05-31T04:26:38.246Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第六天</title>
+    <link href="/2022/05/30/%E7%AC%AC%E5%85%AD%E5%A4%A9/"/>
+    <id>/2022/05/30/第六天/</id>
+    <published>2022-05-30T14:00:00.000Z</published>
+    <updated>2022-05-31T04:26:38.246Z</updated>
+    
+    <summary type="html">
+    
+      日常
+    
+    </summary>
+    
+      <category term="思考" scheme="/categories/%E6%80%9D%E8%80%83/"/>
+    
+    
+      <category term="dairy" scheme="/tags/dairy/"/>
+    
+      <category term="生活" scheme="/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>第五天</title>
@@ -420,28 +442,6 @@
     </summary>
     
       <category term="记录" scheme="/categories/%E8%AE%B0%E5%BD%95/"/>
-    
-    
-      <category term="dairy" scheme="/tags/dairy/"/>
-    
-      <category term="生活" scheme="/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>4月20日小日记</title>
-    <link href="/2022/04/20/20220420/"/>
-    <id>/2022/04/20/20220420/</id>
-    <published>2022-04-20T14:00:00.000Z</published>
-    <updated>2022-05-13T07:20:33.587Z</updated>
-    
-    <summary type="html">
-    
-      日常
-    
-    </summary>
-    
-      <category term="教学" scheme="/categories/%E6%95%99%E5%AD%A6/"/>
     
     
       <category term="dairy" scheme="/tags/dairy/"/>
