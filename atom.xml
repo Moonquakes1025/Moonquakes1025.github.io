@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2022-06-01T14:37:33.917Z</updated>
+  <updated>2022-06-02T06:21:31.481Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>端午前置</title>
+    <link href="/2022/06/02/%E5%A4%87%E6%B3%A8/"/>
+    <id>/2022/06/02/备注/</id>
+    <published>2022-06-02T14:00:00.000Z</published>
+    <updated>2022-06-02T06:21:31.481Z</updated>
+    
+    <summary type="html">
+    
+      日常
+    
+    </summary>
+    
+      <category term="思考" scheme="/categories/%E6%80%9D%E8%80%83/"/>
+    
+    
+      <category term="dairy" scheme="/tags/dairy/"/>
+    
+      <category term="生活" scheme="/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>第八天</title>
@@ -420,28 +442,6 @@
       日常
     
     </summary>
-    
-    
-      <category term="dairy" scheme="/tags/dairy/"/>
-    
-      <category term="生活" scheme="/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>5月3日小日记</title>
-    <link href="/2022/05/03/20220503/"/>
-    <id>/2022/05/03/20220503/</id>
-    <published>2022-05-03T14:00:00.000Z</published>
-    <updated>2022-05-13T07:20:10.530Z</updated>
-    
-    <summary type="html">
-    
-      日常
-    
-    </summary>
-    
-      <category term="玩耍" scheme="/categories/%E7%8E%A9%E8%80%8D/"/>
     
     
       <category term="dairy" scheme="/tags/dairy/"/>
